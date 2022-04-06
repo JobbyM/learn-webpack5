@@ -21,6 +21,7 @@
     "json5": "^2.2.1",
     "less": "^4.1.2",
     "less-loader": "^10.2.0",
+    "lodash": "^4.17.21",
     "mini-css-extract-plugin": "^2.6.0",
     "mini-svg-data-uri": "^1.4.4",
     "style-loader": "^3.3.1",
